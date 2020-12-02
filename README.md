@@ -1,3 +1,5 @@
 # Sudoku_Solver
-A python program that solves Sudoku itself. GUI is made with pyGame and the process if through backtracking. 
-I got the GUI from @tech_with_tim.
+A python program that solves Sudoku itself. 
+A Backtracking algorithm that changes the values of the number entered at the empty blocks and changes the previous numbers by backtracking them and thus solving the whole sudoku. 
+
+Thank you [Tech With Tim](https://github.com/techwithtim) for the GUI and the tutorial on how to use backtracking.
